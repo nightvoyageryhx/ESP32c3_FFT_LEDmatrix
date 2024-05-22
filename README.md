@@ -10,7 +10,7 @@
 
 ## 原理图
 
-![原理图](https://github.com/nightvoyageryhx/ESP32c3_FFT_LEDmatrix/blob/main/Schematic_fft_led_2024-05-22.png)
+![原理图](../../static/imgs/v2-6809b4db1b569730b8444572bcfb7ea3_1440w.png)
 
 **********
 
