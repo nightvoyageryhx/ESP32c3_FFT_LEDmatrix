@@ -10,11 +10,11 @@
 
 ## 原理图
 
-![原理图](./Schematic_fft_led_2024-05-22.png)
+![原理图](https://github.com/nightvoyageryhx/ESP32c3_FFT_LEDmatrix/blob/main/Schematic_fft_led_2024-05-22.png)
 
-{{< admonition >}}
+**********
+
 **如果使用的是ESP32C3，在编译前请进行以下操作** 
-{{< /admonition >}}
 
 将```C:文档\Arduino\libraries\LedControl\src``` 路径（也就是LEDControl库的安装路径）下的```LedControl.h```文件中的
 ```
@@ -40,6 +40,10 @@
 | 5V | VCC | VCC |
 | GND | GND | GND |
 
-{{< admonition warning >}}
-ESP32c3**不推荐使用GPIO11**，如果要使用需要先进行解锁 
-{{< /admonition >}}
+
+
+> ESP32c3**不推荐使用GPIO11**，如果要使用需要请先进行解锁 
+
+********
+
+后续会在b站上传演示
