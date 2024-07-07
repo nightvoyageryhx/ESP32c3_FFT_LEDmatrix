@@ -10,7 +10,7 @@
 
 ## 原理图
 
-![原理图](../../static/imgs/v2-6809b4db1b569730b8444572bcfb7ea3_1440w.png)
+![原理图](https://pic1.zhimg.com/80/v2-6809b4db1b569730b8444572bcfb7ea3_720w.png?source=d16d100b)
 
 **********
 
